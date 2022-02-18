@@ -39,7 +39,7 @@ class Calculator {
     etc
      */
     int fibonacciNumberFinder(int n){
-        return 0;
+        return 1;
     }
 
 
